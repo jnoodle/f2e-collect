@@ -42,6 +42,7 @@
 | w3ctech | http://www.w3ctech.com/ | 中国最大的前端技术社区，信息量多，但良莠不齐 |
 | 前端圈 | http://fequan.com/ | 为广州web前端人员量身打造的生态圈，主要是主题演讲 |
 | div.io | http://div.io/ | 高质量小圈子前端社区，邀请注册 |
+| 前端乱炖 | http://www.html-js.com/ | 也有很多不错的文章 |
 | w3cplus | http://www.w3cplus.com/ | 大漠主办的技术博客，CSS的知识居多 |
 | w3cfuns | http://www.w3cfuns.com/ | 前端综合网站，内容较杂，闲时可以随便逛逛 |
 | 大前端 | http://www.daqianduan.com/ | 有一些前端内容，主要推广wordpress主题 |
@@ -205,7 +206,7 @@ GFW~ WTF
 | 望才招聘 | http://www.matchcv.com/ | 新兴，不熟 |
 | 其他 |  | github，博客，微博，社区，Q群，V2EX... 有诚意必成 Good luck |
 
-PS: 最近找工作，跑来跑去，我一直有一个疑问，那么多企业抱怨被约的人放鸽子，为啥企业不能视频面试哩~！
+PS: 呼吁普及视频面试~
 
 ## <a name="s9"></a>其他
 
