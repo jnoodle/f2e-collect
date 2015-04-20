@@ -170,6 +170,7 @@ GFW~ WTF
 | 拼吾爱 | http://www.pin5i.com/ | 电子书资源，有钱还是要支持正版哦 |
 | Java1234 | http://www.java1234.com/ | 同样电子书资源 |
 | EBOOKEE | http://www.ebookee.net/index.php?tag=8 | 英文电子书资源 |
+| IT-BOOKS | http://it-ebooks.info/ | 比较全的英文电子书 |
 
 
 ## <a name="s8"></a>招聘
