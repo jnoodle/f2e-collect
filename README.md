@@ -123,6 +123,7 @@ GFW~ WTF
 | behance | https://www.behance.net/ | Showcase & Discover Creative Work |
 | UI.PARADE | http://www.uiparade.com/ | UI设计灵感集合 |
 | 站酷 | http://www.zcool.com.cn/ | 我的最爱 |
+| UI中国 | http://www.ui.cn/ | 前身为iconfans.com |
 | dowebok | http://www.dowebok.com/ | 做好网站，一些代码库和素材 |
 | 优设 | http://www.uisdc.com/ | 优秀网页设计联盟 |
 | UIRSS | http://www.uirss.com/ | UI设计门户网站和垂直型社区 |
