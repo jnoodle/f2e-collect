@@ -47,6 +47,7 @@
 | w3cfuns | http://www.w3cfuns.com/ | 前端综合网站，内容较杂，闲时可以随便逛逛 |
 | 大前端 | http://www.daqianduan.com/ | 有一些前端内容，主要推广wordpress主题 |
 | F2E.im | http://f2e.im/ | 玉伯建的前端技术社区 |
+| CSS88 | http://www.css88.com/ | 有一些前端库的中文文档 @愚人码头 |
 | CNodeJS | https://cnodejs.org/ | 国内 Node.js 开源技术社区 |
 | 前端观察 | http://www.qianduan.net/ | 博客，内容搬运工，更新速度一般 |
 | 前端早读课 | http://www.zaoduke.net/ | 一周一两篇转载，可以订阅微信号 |
@@ -119,6 +120,8 @@ GFW~ WTF
 | 名称 | URL | 简介 |
 | ---- | ---- | ---- |
 | Designerslist | http://www.designerslist.info/ | 国外设计网站导航 |
+| NAV80 | http://nav80.com/ | 设计师网址导航 |
+| UISDC | http://hao.uisdc.com/ | 又一个设计师网址导航 |
 | dribbble | https://dribbble.com/ | 设计师社区 |
 | behance | https://www.behance.net/ | Showcase & Discover Creative Work |
 | UI.PARADE | http://www.uiparade.com/ | UI设计灵感集合 |
@@ -134,10 +137,12 @@ GFW~ WTF
 | Chinaz | http://font.chinaz.com/ | 字体素材 |
 | easyicon | http://www.easyicon.net/ | ICON资源 |
 | flaticon | http://www.flaticon.com/ | 矢量ICON资源 |
+| ICONFONT | http://www.iconfont.cn/ | 阿里UX矢量图标库 |
 | iconpng | http://www.iconpng.com/ | ICON资源 |
 | brands | http://www.brandsoftheworld.com/ | 世界logo大全 |
 | LOGOpond | http://logopond.com/ | Logo大全 |
 | Mobile Patterns | http://www.mobile-patterns.com/ | 移动UI设计范例 |
+
 
 
 ## <a name="s6"></a>交互、体验
