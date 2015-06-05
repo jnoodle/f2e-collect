@@ -169,6 +169,7 @@ GFW~ WTF
 | IBM developerWorks | http://www.ibm.com/developerworks/cn/ | 同上 |
 | 极客学院 | http://www.jikexueyuan.com/ | 综合课程 |
 | NODESCHOOL | http://nodeschool.io/ | 在线Node.js入门教学 |
+| hackr | http://hackr.io/ | 各种各样的在线编程教程集合 |
 | node123 | https://github.com/youyudehexie/node123 | node中文资料导航 |
 | 移动开发收藏夹 | https://github.com/hoosin/mobile-web-favorites |
 | tuts+ | http://tutsplus.com/tutorials | Tutorials, inspiration and videos to help you learn. Updated daily |
