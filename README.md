@@ -94,11 +94,8 @@
 
 ## <a name="s3"></a>库、框架、资源
 
-好多哦，回头补充...
-
-| 名称 | URL | 简介 |
-| ---- | ---- | ---- |
-| | | |
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [github-FE-project](https://github.com/hawx1993/github-FE-project)
 
 
 ## <a name="s4"></a>CDN，镜像
@@ -172,6 +169,8 @@ GFW~ WTF
 | IBM developerWorks | http://www.ibm.com/developerworks/cn/ | 同上 |
 | 极客学院 | http://www.jikexueyuan.com/ | 综合课程 |
 | NODESCHOOL | http://nodeschool.io/ | 在线Node.js入门教学 |
+| node123 | https://github.com/youyudehexie/node123 | node中文资料导航 |
+| 移动开发收藏夹 | https://github.com/hoosin/mobile-web-favorites |
 | tuts+ | http://tutsplus.com/tutorials | Tutorials, inspiration and videos to help you learn. Updated daily |
 | 拼吾爱 | http://www.pin5i.com/ | 电子书资源，有钱还是要支持正版哦 |
 | Java1234 | http://www.java1234.com/ | 同样电子书资源 |
@@ -179,7 +178,7 @@ GFW~ WTF
 | IT-BOOKS | http://it-ebooks.info/ | 比较全的英文电子书 |
 
 
-## <a name="s8"></a>招聘
+## <a name="s8"></a>招聘、面试
 
 还在51job、智联、58等投简历和找人才么，试试下面这些吧：
 
@@ -211,9 +210,16 @@ GFW~ WTF
 | 猿圈 | http://www.oxcoder.com/ | 企业直接在这上面出笔试题，可完成第一轮筛选，省的让人来回跑 |
 | 奔翼 | https://prinbit.com/ | 在线协同编码，帮助判断应聘者的基础知识，沟通能力，以及更重要的编码能力 |
 | 望才招聘 | http://www.matchcv.com/ | 新兴，不熟 |
-| 其他 |  | github，博客，微博，社区，Q群，V2EX... 有诚意必成 Good luck |
+| 其他 | - | github，博客，微博，社区，Q群，V2EX... 有诚意必成 Good luck |
 
-PS: 呼吁普及视频面试~
+面试
+
+| 名称 | URL | 简介 |
+| ---- | ---- | ---- |
+| 面试问题整理 | https://github.com/hawx1993/Front-end-Interview-questions | 前端开发面试问题及答案整理 |
+| 前端技能汇总 | https://github.com/JacksonTian/fks |
+
+
 
 ## <a name="s9"></a>其他
 
