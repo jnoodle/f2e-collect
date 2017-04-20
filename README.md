@@ -1,15 +1,15 @@
 # 前端网站及资源导航
 
-本网站收集本人喜好的前端相关社区、网站、博客、资源等。有好的资源欢迎推荐（请发邮件至：`fullstack@126.com`）。更详细内容请移步 [f2e-collect](https://github.com/jnoodle/f2e-collect)，觉得有帮助，给个Star吧，反正也不花钱~~ 
+本网站收集本人喜好的前端相关网站和资源等，不断更新中。有好的资源欢迎推荐（请发邮件至：`fullstack@126.com`）。更详细内容请移步 [f2e-collect](https://github.com/jnoodle/f2e-collect)，觉得有帮助，给个Star吧，反正也不花钱~~ 
 
-<iframe src="https://ghbtns.com/github-btn.html?user=jnoodle&repo=f2e-collect&type=star&count=true" frameborder="0" scrolling="0" width="160px" height="20px"></iframe> 
+<iframe src="https://ghbtns.com/github-btn.html?user=jnoodle&repo=f2e-collect&type=star&count=false" frameborder="0" scrolling="0" width="160px" height="20px"></iframe> 
 
 ### 目录
 
 * [综合](#s1)
 * [社区、博客](#s2)
 * [库、框架、资源](#s3)
-* [CDN，镜像](#s4)
+* [CDN，云服务](#s4)
 * [设计、模板](#s5)
 * [交互、体验](#s6)
 * [教程、书籍](#s7)
@@ -31,10 +31,9 @@
 | 知乎 | [www.zhihu.com](http://www.zhihu.com/) | 每日必刷，可以关注[前端开发](https://www.zhihu.com/topic/19550901/hot)等话题 |
 | InfoQ | [www.infoq.com](http://www.infoq.com/) <br> [www.infoq.com/cn](http://www.infoq.com/cn/) | 高质量软件开发领域知识与创新传播网站 |
 | 开源中国 | [www.oschina.net](http://www.oschina.net/) | 国内最大的开源技术社区，开源项目速查 |
-| V2EX | [v2ex.com](http://v2ex.com/) | 创意工作者们的社区 |
 | REPL | [jsfiddle.net](http://jsfiddle.net/) <br> [jsbin.com](http://jsbin.com/) <br> [repl.it](https://repl.it/) <br> [ideone.com](http://ideone.com/) <br> [babeljs.io/repl](https://babeljs.io/repl/) | 在线交互式解释器环境 |
 | MSDN | [msdn.microsoft.com/zh-cn](http://msdn.microsoft.com/zh-cn/) | 我起初系微软系 |
-| 博客园 | [www.cnblogs.com](http://www.cnblogs.com/) | 微软系为主博客 |
+| W3School | [www.w3school.com.cn](http://www.w3school.com.cn/) | 在线教程，略老 |
 
 
 ## <a name="s2"></a>社区、博客
@@ -46,6 +45,8 @@
 | 名称 | URL | 简介 |
 | ---- | ---- | ---- |
 | w3ctech | [www.w3ctech.com](http://www.w3ctech.com/) | 中国最大的前端技术社区，信息量多，但良莠不齐 |
+| V2EX | [v2ex.com](http://v2ex.com/) | 创意工作者们的社区 |
+| 掘金 | [juejin.im](https://juejin.im/) | 高手分享技术社区 |
 | div.io | [div.io](http://div.io/) | 高质量小圈子前端社区 |
 | 前端乱炖 | [www.html-js.com](http://www.html-js.com/) | 也有很多不错的文章 |
 | w3cplus | [www.w3cplus.com](http://www.w3cplus.com/) | 大漠主办的技术博客，貌似挂了 |
@@ -81,6 +82,7 @@
 | 米随随 | [s5s5.me](http://s5s5.me/) | 刘小超博客 |
 | 江清清 | [www.lcode.org](http://www.lcode.org/) | 江清清的技术专栏 |
 | 前端圈 | [fequan.com](https://fequan.com/) | 为广州web前端人员量身打造的生态圈，主要是主题演讲，很久不更新了 |
+| 博客园 | [www.cnblogs.com](http://www.cnblogs.com/) | 微软系为主博客 |
 
 <!--| 网易UED | [uedc.163.com](http://uedc.163.com/) | 网易UED团队博客，貌似有问题 |
 | 新浪UED | [ued.sina.com.cn](http://ued.sina.com.cn/) | 新浪UED团队博客，很久不更新了 |
@@ -121,13 +123,14 @@
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 - [Awesome React Native](https://github.com/jondot/awesome-react-native)
 - [Awesome Weex](https://github.com/joggerplus/awesome-weex)
+- [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
 - [JS Tips](https://github.com/loverajoel/jstips)
 
 <!--- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [github-FE-project](https://github.com/hawx1993/github-FE-project)-->
 
 
-## <a name="s4"></a>CDN
+## <a name="s4"></a>CDN、云服务
 
 | 名称 | URL | 简介 |
 | ---- | ---- | ---- |
@@ -136,6 +139,8 @@
 | 微信CDN | [qydev.weixin.qq.com/cdn/cdnjs.html](http://qydev.weixin.qq.com/cdn/cdnjs.html) | 微信前端库CDN服务 |
 | BootCDN | [www.bootcdn.cn](http://www.bootcdn.cn/) | Bootstrap中文网开源项目CDN库 |
 | 淘宝NPM | [npm.taobao.org](http://npm.taobao.org/) | 淘宝 NPM 镜像 |
+| 阿里云 | [www.aliyun.com](https://www.aliyun.com/) | 在国内首选 |
+| 七牛 | [www.qiniu.com](https://www.qiniu.com/) | 七牛云，可以存一些文件视频之类 |
 
 
 ## <a name="s5"></a>设计、模板
@@ -199,6 +204,7 @@
 | node123 | [github.com/youyudehexie/node123](https://github.com/youyudehexie/node123) | node中文资料导航 |
 | 移动开发收藏夹 | [github.com/hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) |
 | tuts+ | [tutsplus.com/tutorials](http://tutsplus.com/tutorials) | Tutorials, inspiration and videos to help you learn. Updated daily |
+| 免费编程书籍 | [github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books) | [中文](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md) |
 | 拼吾爱 | [www.pin5i.com](http://www.pin5i.com/) | 电子书资源，有钱还是要支持正版哦 |
 | Java1234 | [www.java1234.com](http://www.java1234.com/) | 同样电子书资源 |
 | EBOOKEE | [www.ebookee.net](http://www.ebookee.net/) | 英文电子书资源 |
@@ -222,7 +228,6 @@
 | LinkedIn | [www.linkedin.com](https://www.linkedin.com) | 领英中国，高端管理人才可以碰一碰，不过Coder很少去 |
 | 哪上班 | [www.nashangban.com](https://www.nashangban.com/) | 互联网企业招聘 |
 | 大街网 | [www.dajie.com](http://www.dajie.com/) | 职业社交招聘 |
-| 周伯通 | [www.jobtong.com](http://www.jobtong.com/) | 移动互联网招聘社区 |
 | CSDN招聘 | [job.csdn.net](http://job.csdn.net/) | 程序员招聘 |
 | 猎上网 | [www.hunteron.com](http://www.hunteron.com/) | 比猎聘名气小，可以碰碰 |
 | 51猎头 | [www.51lietou.com](http://www.51lietou.com/) | 同上 |
@@ -235,13 +240,13 @@
 | 蚂蚁招聘 | [www.mayizhaopin.com](http://www.mayizhaopin.com/) | 一键发布到各大招聘网站 |
 | 猿圈 | [www.oxcoder.com](http://www.oxcoder.com/) | 企业直接在这上面出笔试题，可完成第一轮筛选，省的让人来回跑 |
 | 奔翼 | [prinbit.com](https://prinbit.com/) | 在线协同编码，帮助判断应聘者的基础知识，沟通能力，以及更重要的编码能力 |
-| 望才招聘 | [www.matchcv.com](http://www.matchcv.com/) | 新兴，不熟 |
 | 其他 | - | github，博客，微博，社区，Q群，V2EX... 有诚意必成 Good luck |
 
 ### 面试资源
 
 - [前端面试笔试题收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 - [FEX 面试问题](https://github.com/fex-team/interview-questions)
+- [饿了么 Node.js 面试问题](https://github.com/ElemeFE/node-interview)
 - [前端面试知识点汇总](https://github.com/hawx1993/Front-end-Interview-questions)
 - [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)
 - [前端资源汇总（包括前端学习、开发资源、求职面试等）](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
@@ -255,10 +260,12 @@
 | 名称 | URL | 简介 |
 | ---- | ---- | ---- |
 | IT桔子 | [itjuzi.com](http://itjuzi.com/) | IT互联网行业公司信息披露 |
+| Worktile | [worktile.com](https://worktile.com/) | 创业企业协作平台 |
 | 奇云测 | [ce.cloud.360.cn](http://ce.cloud.360.cn/) | 网站速度测试 |
 | WebPageTest | [www.webpagetest.org](http://www.webpagetest.org/) | 国内访问慢些 |
 | 百度应用性能监测中心 | [developer.baidu.com/apm](http://developer.baidu.com/apm/) | 百度开放服务平台的一个服务，还有很多其他的 |
 | jsperf | [jsperf.com](http://jsperf.com/) | JavaScript performance playground，JS性能对比测试 |
+| ATOOL | [www.atool.org](http://www.atool.org/) | 在线工具集合 |
 
 
 
@@ -277,6 +284,11 @@
 [我在慕课网的课程](http://www.imooc.com/u/102093/courses?sort=publish)
 
 <br>
+
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":["mshare","qzone","tsina","bdysc","weixin","sqq","renren","tqq","evernotecn","youdao","kaixin001","bdxc","tqf","tieba","douban","bdhome","thx","ibaidu","meilishuo","mogujie","diandian","huaban","duitang","hx","fx","sdo","qingbiji","people","xinhua","mail","isohu","yaolan","wealink","ty","iguba","fbook","twi","linkedin","h163","copy","print"],"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"4","bdPos":"right","bdTop":"120"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+
 
 
 
