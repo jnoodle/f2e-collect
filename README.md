@@ -2,8 +2,6 @@
 
 本网站收集本人喜好的前端相关网站和资源等，不断更新中。有好的资源欢迎推荐（请发邮件至：`fullstack@126.com`）。更详细内容请移步 [f2e-collect](https://github.com/jnoodle/f2e-collect)，觉得有帮助，给个Star吧，反正也不花钱~~ 
 
-<iframe src="https://ghbtns.com/github-btn.html?user=jnoodle&repo=f2e-collect&type=star&count=false" frameborder="0" scrolling="0" width="160px" height="20px"></iframe> 
-
 ### 目录
 
 * [综合](#s1)
@@ -285,8 +283,6 @@
 
 <br>
 
-
-<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":["mshare","qzone","tsina","bdysc","weixin","sqq","renren","tqq","evernotecn","youdao","kaixin001","bdxc","tqf","tieba","douban","bdhome","thx","ibaidu","meilishuo","mogujie","diandian","huaban","duitang","hx","fx","sdo","qingbiji","people","xinhua","mail","isohu","yaolan","wealink","ty","iguba","fbook","twi","linkedin","h163","copy","print"],"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"4","bdPos":"right","bdTop":"120"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
 
 
 
