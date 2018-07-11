@@ -23,20 +23,21 @@
 | MDN | [developer.mozilla.org](https://developer.mozilla.org/) | Mozilla Developer Network，Mozilla 开发者网络 |
 | StackOverflow | [stackoverflow.com](http://stackoverflow.com/) | 最大最全的技术问答社区 |
 | SegmentFault | [segmentfault.com](http://segmentfault.com/) | 中国开发者社区，国内的SO |
-| GitHub | [github.com](https://github.com/) | 开源代码库，源码托管协作必备 |
-| 码市 | [github.com](https://coding.net/) | 国内代码库，源码托管协作必备，私有仓库免费 |
+| GitHub | [github.com](https://github.com/) | 源码托管协作必备 |
+| 码市 | [coding.net](https://coding.net/r/Z1XPN4) | 国内源码托管协作，免费版5个私有仓库 |
 | CanIUse | [caniuse.com](http://caniuse.com/) | 兼容性速查 |
-| 知乎 | [www.zhihu.com](http://www.zhihu.com/) | 每日必刷，可以关注[前端开发](https://www.zhihu.com/topic/19550901/hot)等话题 |
-| InfoQ | [www.infoq.com](http://www.infoq.com/) <br> [www.infoq.com/cn](http://www.infoq.com/cn/) | 高质量软件开发领域知识与创新传播网站 |
-| 开源中国 | [www.oschina.net](http://www.oschina.net/) | 国内最大的开源技术社区，开源项目速查 |
 | REPL | [jsfiddle.net](http://jsfiddle.net/) <br> [jsbin.com](http://jsbin.com/) <br> [repl.it](https://repl.it/) <br> [ideone.com](http://ideone.com/) <br> [babeljs.io/repl](https://babeljs.io/repl/) | 在线交互式解释器环境 |
-| MSDN | [msdn.microsoft.com/zh-cn](http://msdn.microsoft.com/zh-cn/) | 我起初系微软系 |
+| 知乎 | [www.zhihu.com](http://www.zhihu.com/) | 每日必刷，可以关注[前端开发](https://www.zhihu.com/topic/19550901/hot)等话题 |
+| 简书 | [www.jianshu.com](https://www.jianshu.com/) | 国内最优质的创作社区，可以关注前端相关专题 |
+| InfoQ | [www.infoq.com](http://www.infoq.com/) <br> [www.infoq.com/cn](http://www.infoq.com/cn/) | 高质量软件开发领域知识与创新传播网站 |
+| MSDN | [msdn.microsoft.com/zh-cn](http://msdn.microsoft.com/zh-cn/) | 微软开发者网络 |
+| 开源中国 | [www.oschina.net](http://www.oschina.net/) | 国内最大的开源技术社区，开源项目速查 |
 | W3School | [www.w3school.com.cn](http://www.w3school.com.cn/) | 在线教程，略老 |
 
 
 ## <a name="s2"></a>社区、博客
 
-有很多已经不怎么更新的或者质量变差的博客不再搜集。
+关闭的、不怎么更新的或者质量变差的不再搜集。
 
 ### 中文
 
@@ -45,30 +46,22 @@
 | w3ctech | [www.w3ctech.com](http://www.w3ctech.com/) | 中国最大的前端技术社区，信息量多，但良莠不齐 |
 | V2EX | [v2ex.com](http://v2ex.com/) | 创意工作者们的社区 |
 | 掘金 | [juejin.im](https://juejin.im/) | 高手分享技术社区 |
+| 阮一峰 | [www.ruanyifeng.com/blog](http://www.ruanyifeng.com/blog/) | 阮一峰个人博客，更新频繁，推荐 |
 | div.io | [div.io](http://div.io/) | 高质量小圈子前端社区 |
 | 前端乱炖 | [www.html-js.com](http://www.html-js.com/) | 也有很多不错的文章 |
 | w3cplus | [www.w3cplus.com](http://www.w3cplus.com/) | 大漠主办的技术博客，貌似挂了 |
 | w3cfuns | [www.w3cfuns.com](http://www.w3cfuns.com/) | 前端综合网站，内容较杂，闲时可以随便逛逛 |
-| 大前端 | [www.daqianduan.com](http://www.daqianduan.com/) | 有一些前端内容，主要推广wordpress主题 |
-| F2E.im | [f2e.im](http://f2e.im/) | 玉伯建的前端技术社区 |
 | CSS88 | [www.css88.com](http://www.css88.com/) | 有一些前端库的中文文档 @愚人码头 |
 | CNodeJS | [cnodejs.org](https://cnodejs.org/) | 国内 Node.js 开源技术社区 |
-| 前端观察 | [www.qianduan.net](http://www.qianduan.net/) | 博客，内容搬运工，更新速度一般 |
-| 前端早读课 | [www.zaoduke.net](http://www.zaoduke.net/) | 一周一两篇转载，可以订阅微信号 |
 | AlloyTeam | [www.alloyteam.com](http://www.alloyteam.com/) | 腾讯全端 AlloyTeam 团队博客 |
 | FEX | [fex.baidu.com](http://fex.baidu.com/) | 百度web前端研发部 |
-| 淘宝UED | [ued.taobao.org/blog](http://ued.taobao.org/blog/) | 淘宝UED博客，貌似挂了 |
 | 去哪儿网UED | [ued.qunar.com](http://ued.qunar.com/) | 去哪儿网UED知识库 |
 | 奇舞团 | [75team.com](https://75team.com/) | 360前端团队博客 |
 | 百度EFE | [efe.baidu.com](http://efe.baidu.com/) | 百度前端技术体系博客 |
-| 天猫前端 | [tmallfe.github.io](http://tmallfe.github.io/) | 天猫前端博客 |
 | 阿里UED | [www.aliued.cn](http://www.aliued.cn/) | 阿里UED团队博客 |
-| 携程UED | [ued.ctrip.com/blog](http://ued.ctrip.com/blog/) | 携程UED团队博客 |
-| 阿里妈妈MUX | [mux.alimama.com](http://mux.alimama.com/) | 阿里妈妈MUX团队博客 |
-| alinode | [alinode.aliyun.com/blog](https://alinode.aliyun.com/blog) | alinode团队博客 |
+| 携程UED | [ued.ctrip.com](http://ued.ctrip.com/) | 携程设计委员会 |
 | 百度UED | [ued.baidu.com](http://ued.baidu.com/) | 百度UED团队博客 |
 | 张鑫旭 | [www.zhangxinxu.com/wordpress](http://www.zhangxinxu.com/wordpress/) | ISUX张鑫旭个人博客，很高产 |
-| 阮一峰 | [www.ruanyifeng.com/blog](http://www.ruanyifeng.com/blog/) | 阮一峰个人博客，更新频繁 |
 | 酷壳 | [coolshell.cn](http://coolshell.cn/) | 分享技术见闻，知识，趋势的博客 |
 | 朴灵 | [html5ify.com](http://html5ify.com/) | 阿里数据平台数据产品部资深工程师朴灵 |
 | hax | [johnhax.net](http://johnhax.net/) | 百姓网贺师俊 |
@@ -78,17 +71,21 @@
 | CSSForest | [blog.cssforest.org](http://blog.cssforest.org/) | 腾讯重构大牛 |
 | 99css | [www.99css.com](http://www.99css.com/) | ytzong |
 | 米随随 | [s5s5.me](http://s5s5.me/) | 刘小超博客 |
-| 江清清 | [www.lcode.org](http://www.lcode.org/) | 江清清的技术专栏 |
-| 前端圈 | [fequan.com](https://fequan.com/) | 为广州web前端人员量身打造的生态圈，主要是主题演讲，很久不更新了 |
 | 博客园 | [www.cnblogs.com](http://www.cnblogs.com/) | 微软系为主博客 |
 
-<!--| 网易UED | [uedc.163.com](http://uedc.163.com/) | 网易UED团队博客，貌似有问题 |
+<!--
+
+| 前端圈 | [fequan.com](https://fequan.com/) | 为广州web前端人员量身打造的生态圈，主要是主题演讲，基本停更 |
+| 阿里妈妈MUX | [mux.alimama.com](http://mux.alimama.com/) | 阿里妈妈MUX团队博客，基本停更 |
+| 网易UED | [uedc.163.com](http://uedc.163.com/) | 网易UED团队博客，貌似有问题 |
 | 新浪UED | [ued.sina.com.cn](http://ued.sina.com.cn/) | 新浪UED团队博客，很久不更新了 |
 | TID | [tid.tenpay.com](http://tid.tenpay.com/) | 财付通TID团队博客，很久不更新了 |
 | TQ | [tqtan.com](http://tqtan.com/) | 腾讯ISUX TQ，很久不更新了 |
 | winter | [winter-cn.cnblogs.com](http://winter-cn.cnblogs.com/) | 阿里winter博客，很久不更新了 |
 | qiqiboy | [www.qiqiboy.com](http://www.qiqiboy.com/) | 金山网络qiqiboy，很久不更新了 |
-| 周爱民 | [blog.csdn.net/aimingoo](http://blog.csdn.net/aimingoo/) | 大道至简，很久不更新了 |-->
+| 周爱民 | [blog.csdn.net/aimingoo](http://blog.csdn.net/aimingoo/) | 大道至简，很久不更新了 |
+
+-->
 
 
 ### 英文
