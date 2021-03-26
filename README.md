@@ -204,6 +204,7 @@
 | Java1234 | [www.java1234.com](http://www.java1234.com/) | 同样电子书资源 |
 | EBOOKEE | [www.ebookee.net](http://www.ebookee.net/) | 英文电子书资源 |
 | IT-BOOKS | [it-ebooks.info](http://it-ebooks.info/) | 比较全的英文电子书 |
+| InterviewBit | [InterviewBit](https://www.interviewbit.com/) | 帮助在线练习编码并为编程面试做准备 |
 
 <!--| 阿里技术沙龙 | [club.alibabatech.org](http://club.alibabatech.org/) | 阿里技术嘉年华 |-->
 
