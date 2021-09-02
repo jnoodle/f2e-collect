@@ -277,8 +277,6 @@
 
 <img src="wechat.png" width="200" height="200" alt="给我买一杯咖啡吧" />
 
-[我在慕课网的课程](http://www.imooc.com/u/102093/courses?sort=publish)
-
 <br>
 
 
